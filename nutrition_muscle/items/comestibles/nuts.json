@@ -1,0 +1,16 @@
+[
+  {
+    "type": "COMESTIBLE",
+    "id": "edamame_roasted",
+    "name": { "str_sp": "roasted edamame" },
+    "copy-from": "edamame_roasted",
+    "vitamins": [ [ "muscle_source", 33 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "soy_nuts",
+    "name": { "str_sp": "roasted soy nuts" },
+    "copy-from": "soy_nuts",
+    "vitamins": [ [ "muscle_source", 100 ] ]
+  }
+]

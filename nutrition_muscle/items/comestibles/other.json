@@ -1,0 +1,39 @@
+[
+  {
+    "type": "COMESTIBLE",
+    "id": "tofu",
+    "name": { "str_sp": "tofu" },
+    "copy-from": "tofu",
+    "vitamins": [ [ "muscle_source", 13 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "tofu_fried",
+    "name": { "str_sp": "fried tofu" },
+    "copy-from": "tofu_fried",
+    "vitamins": [ [ "muscle_source", 13 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "dry_tofu",
+    "name": { "str_sp": "dehydrated tofu" },
+    "copy-from": "dry_tofu",
+    "vitamins": [ [ "muscle_source", 13 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "comestible_type": "FOOD",
+    "id": "soybean",
+    "name": { "str_sp": "soybeans" },
+    "copy-from": "soybean",
+    "vitamins": [ [ "muscle_source", 100 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "comestible_type": "FOOD",
+    "id": "raw_edamame",
+    "name": { "str": "raw edamame" },
+    "copy-from": "raw_edamame",
+    "vitamins": [ [ "muscle_source", 20 ] ]
+  }
+]

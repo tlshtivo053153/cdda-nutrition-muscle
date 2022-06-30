@@ -1,0 +1,9 @@
+[
+  {
+    "type": "COMESTIBLE",
+    "id": "soy_milk",
+    "name": { "str": "soy milk" },
+    "copy-from": "soy_milk",
+    "vitamins": [ [ "muscle_source", 20 ] ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "type": "effect_type",
+    "id": "muscle_building",
+    "name": [ "筋肉+1", "筋肉+2", "筋肉+3", "筋肉+4", "筋肉+5", "筋肉+6", "筋肉+7", "筋肉+8", "筋肉+9", "筋肉+10" ],
+    "desc": [ "" ],
+    "max_intensity": 10,
+    "rating": "good",
+    "base_mods": {
+      "str_mod": [ 1 ]
+    },
+    "scaling_mods": {
+      "str_mod": [ 1 ]
+    }
+  }
+]

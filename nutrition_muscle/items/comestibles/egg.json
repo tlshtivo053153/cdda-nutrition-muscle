@@ -1,0 +1,255 @@
+[
+  {
+    "type": "COMESTIBLE",
+    "id": "egg_bird",
+    "name": { "str": "bird egg" },
+    "copy-from": "egg_bird",
+    "vitamins": [ [ "muscle_source", 16 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "egg_chicken",
+    "name": { "str": "chicken egg" },
+    "copy-from": "egg_chicken",
+    "vitamins": [ [ "muscle_source", 16 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "egg_bird_unfert",
+    "copy-from": "egg_bird_unfert",
+    "name": { "str": "unfertilized bird egg" },
+    "vitamins": [ [ "muscle_source", 16 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "egg_grouse",
+    "name": { "str": "grouse egg" },
+    "copy-from": "egg_grouse",
+    "vitamins": [ [ "muscle_source", 16 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "egg_crow",
+    "name": { "str": "crow egg" },
+    "copy-from": "egg_crow",
+    "vitamins": [ [ "muscle_source", 16 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "egg_raven",
+    "name": { "str": "raven egg" },
+    "copy-from": "egg_raven",
+    "vitamins": [ [ "muscle_source", 16 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "egg_bluejay",
+    "name": { "str": "blue jay egg" },
+    "copy-from": "egg_bluejay",
+    "vitamins": [ [ "muscle_source", 16 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "egg_cardinal",
+    "name": { "str": "cardinal egg" },
+    "copy-from": "egg_cardinal",
+    "vitamins": [ [ "muscle_source", 16 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "egg_robin",
+    "name": { "str": "robin egg" },
+    "copy-from": "egg_robin",
+    "vitamins": [ [ "muscle_source", 16 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "egg_sparrow",
+    "name": { "str": "sparrow egg" },
+    "copy-from": "egg_sparrow",
+    "vitamins": [ [ "muscle_source", 16 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "egg_duck",
+    "name": { "str": "duck egg" },
+    "copy-from": "egg_duck",
+    "vitamins": [ [ "muscle_source", 16 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "egg_goose_canadian",
+    "name": { "str": "goose egg" },
+    "copy-from": "egg_goose_canadian",
+    "vitamins": [ [ "muscle_source", 16 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "egg_turkey",
+    "name": { "str": "turkey egg" },
+    "copy-from": "egg_turkey",
+    "vitamins": [ [ "muscle_source", 16 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "egg_pheasant",
+    "name": { "str": "pheasant egg" },
+    "copy-from": "egg_pheasant",
+    "vitamins": [ [ "muscle_source", 16 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "egg_cockatrice",
+    "name": { "str": "cockatrice egg" },
+    "copy-from": "egg_cockatrice",
+    "vitamins": [ [ "muscle_source", 16 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "egg_reptile",
+    "name": { "str": "reptile egg" },
+    "copy-from": "egg_reptile",
+    "vitamins": [ [ "muscle_source", 16 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "comestible_type": "FOOD",
+    "name": { "str": "insect egg" },
+    "abstract": "egg_insect",
+    "copy-from": "egg_insect",
+    "vitamins": [ [ "muscle_source", 100 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "ant_egg",
+    "name": { "str": "ant egg" },
+    "copy-from": "ant_egg",
+    "vitamins": [ [ "muscle_source", 400 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "spider_egg",
+    "name": { "str": "spider egg" },
+    "copy-from": "spider_egg",
+    "vitamins": [ [ "muscle_source", 100 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "egg_roach",
+    "name": { "str": "roach egg" },
+    "copy-from": "egg_roach",
+    "vitamins": [ [ "muscle_source", 100 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "egg_roach_plague",
+    "name": { "str": "plague vector egg" },
+    "copy-from": "egg_roach_plague",
+    "vitamins": [ [ "muscle_source", 100 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "egg_locust",
+    "name": { "str": "locust egg" },
+    "copy-from": "egg_locust",
+    "vitamins": [ [ "muscle_source", 100 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "egg_dragonfly",
+    "name": { "str": "dragonfly egg" },
+    "copy-from": "egg_dragonfly",
+    "vitamins": [ [ "muscle_source", 100 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "egg_firefly",
+    "name": { "str": "firefly egg" },
+    "copy-from": "egg_firefly",
+    "vitamins": [ [ "muscle_source", 100 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "egg_centipede",
+    "name": { "str": "centipede egg" },
+    "copy-from": "egg_centipede",
+    "vitamins": [ [ "muscle_source", 200 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "egg_wasp",
+    "name": { "str": "wasp egg" },
+    "copy-from": "egg_wasp",
+    "vitamins": [ [ "muscle_source", 100 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "egg_stag_beetle",
+    "name": { "str": "stag beetle egg" },
+    "copy-from": "egg_stag_beetle",
+    "vitamins": [ [ "muscle_source", 500 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "egg_antlion",
+    "name": { "str": "antlion egg" },
+    "copy-from": "egg_antlion",
+    "vitamins": [ [ "muscle_source", 200 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "egg_strider",
+    "name": { "str": "water strider egg" },
+    "copy-from": "egg_strider",
+    "vitamins": [ [ "muscle_source", 100 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "egg_grasshopper",
+    "name": { "str": "grasshopper egg" },
+    "copy-from": "egg_grasshopper",
+    "vitamins": [ [ "muscle_source", 100 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "egg_lady_bug",
+    "name": { "str": "lady bug egg" },
+    "copy-from": "egg_lady_bug",
+    "vitamins": [ [ "muscle_source", 100 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "egg_mole_cricket",
+    "name": { "str": "mole cricket egg" },
+    "copy-from": "egg_mole_cricket",
+    "vitamins": [ [ "muscle_source", 100 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "egg_mantis",
+    "name": { "str": "praying mantis egg case" },
+    "copy-from": "egg_mantis",
+    "vitamins": [ [ "muscle_source", 100 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "razorclaw_roe",
+    "name": { "str": "razorclaw roe" },
+    "copy-from": "razorclaw_roe",
+    "vitamins": [ [ "muscle_source", 66 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "egg_fish",
+    "name": { "str": "roe" },
+    "copy-from": "egg_fish",
+    "vitamins": [ [ "muscle_source", 8 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "egg_frog",
+    "name": { "str": "cluster of frog's eggs", "str_pl": "clusters of frog's eggs" },
+    "copy-from": "egg_frog",
+    "vitamins": [ [ "muscle_source", 16 ] ]
+  }
+]
