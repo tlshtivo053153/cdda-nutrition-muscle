@@ -7,6 +7,6 @@
     "description": "肉や魚を食べると筋力が上がります。",
     "category": "misc_additions",
     "dependencies": [ "dda" ],
-    "version": "0.1"
+    "version": "0.2"
   }
 ]
