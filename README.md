@@ -13,3 +13,4 @@ Cataclysm: Dark Days Ahead の開発版向けMOD。
 
 1. Githubのページにある `Code -> Download ZIP` からダウンロードする。
 2. `nutrition_muscle` フォルダを `data/mods/` 内にコピーする。
+3. 世界生成時のMODリストから [基本] -> [追加 - 成長する筋肉] を選択。

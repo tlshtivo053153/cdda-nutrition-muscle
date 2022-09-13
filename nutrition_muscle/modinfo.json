@@ -2,7 +2,7 @@
   {
     "type": "MOD_INFO",
     "id": "nutrition_muscle",
-    "name": "成長する筋肉MOD",
+    "name": "追加 - 成長する筋肉",
     "authors": [ "tlshtivo053153" ],
     "description": "肉や魚を食べると筋力が上がります。",
     "category": "misc_additions",
