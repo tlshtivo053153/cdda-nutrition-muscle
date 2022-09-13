@@ -15,6 +15,13 @@
   },
   {
     "type": "COMESTIBLE",
+    "id": "milk_powder",
+    "name": { "str_sp": "powdered milk" },
+    "copy-from": "milk_powder",
+    "vitamins": [ [ "muscle_source", 20 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
     "id": "cheese_hard",
     "name": { "str_sp": "hard cheese" },
     "copy-from": "cheese_hard",
@@ -25,6 +32,13 @@
     "id": "cheese",
     "name": { "str_sp": "cheese" },
     "copy-from": "cheese",
+    "vitamins": [ [ "muscle_source", 50 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "cheese_powder",
+    "name": { "str_sp": "powdered cheese" },
+    "copy-from": "cheese_powder",
     "vitamins": [ [ "muscle_source", 50 ] ]
   },
   {

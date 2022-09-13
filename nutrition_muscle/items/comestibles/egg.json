@@ -1,6 +1,13 @@
 [
   {
     "type": "COMESTIBLE",
+    "id": "powder_eggs",
+    "name": { "str": "powdered egg" },
+    "copy-from": "powder_eggs",
+    "vitamins": [ [ "muscle_source", 16 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
     "id": "egg_bird",
     "name": { "str": "bird egg" },
     "copy-from": "egg_bird",
@@ -219,6 +226,13 @@
   },
   {
     "type": "COMESTIBLE",
+    "id": "egg_lady_bug_giant",
+    "name": { "str": "giant ladybug egg" },
+    "copy-from": "egg_lady_bug_giant",
+    "vitamins": [ [ "muscle_source", 100 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
     "id": "egg_mole_cricket",
     "name": { "str": "mole cricket egg" },
     "copy-from": "egg_mole_cricket",
@@ -251,5 +265,96 @@
     "name": { "str": "cluster of frog's eggs", "str_pl": "clusters of frog's eggs" },
     "copy-from": "egg_frog",
     "vitamins": [ [ "muscle_source", 16 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "egg_goose",
+    "name": "goose egg",
+    "copy-from": "egg_goose",
+    "vitamins": [ [ "muscle_source", 16 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "egg_goose_golden",
+    "name": "golden goose egg",
+    "copy-from": "egg_goose_golden",
+    "vitamins": [ [ "muscle_source", 16 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "egg_hummingbird",
+    "name": "hummingbird egg",
+    "copy-from": "egg_hummingbird",
+    "vitamins": [ [ "muscle_source", 16 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "egg_woodpecker",
+    "name": "woodpecker egg",
+    "copy-from": "egg_woodpecker",
+    "vitamins": [ [ "muscle_source", 16 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "egg_coot",
+    "name": "coot egg",
+    "copy-from": "egg_coot",
+    "vitamins": [ [ "muscle_source", 16 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "egg_cormorant",
+    "name": "cormorant egg",
+    "copy-from": "egg_cormorant",
+    "vitamins": [ [ "muscle_source", 16 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "egg_moorhen",
+    "name": "moorhen egg",
+    "copy-from": "egg_moorhen",
+    "vitamins": [ [ "muscle_source", 16 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "egg_grebe",
+    "name": "grebe egg",
+    "copy-from": "egg_grebe",
+    "vitamins": [ [ "muscle_source", 16 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "egg_toad",
+    "name": { "str": "cluster of toad's eggs", "str_pl": "clusters of toad's eggs" },
+    "copy-from": "egg_toad",
+    "vitamins": [ [ "muscle_source", 16 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "egg_water_beetle",
+    "name": "water beetle egg",
+    "copy-from": "egg_water_beetle",
+    "vitamins": [ [ "muscle_source", 100 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "egg_water_bug",
+    "name": "water scorpion egg",
+    "copy-from": "egg_water_bug",
+    "vitamins": [ [ "muscle_source", 100 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "egg_butterfly",
+    "name": "butterfly egg",
+    "copy-from": "egg_butterfly",
+    "vitamins": [ [ "muscle_source", 100 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "egg_cicada",
+    "name": "cicada egg",
+    "copy-from": "egg_cicada",
+    "vitamins": [ [ "muscle_source", 100 ] ]
   }
 ]
