@@ -8,6 +8,13 @@
   },
   {
     "type": "COMESTIBLE",
+    "id": "milk_raw",
+    "name": { "str_sp": "raw milk" },
+    "copy-from": "milk",
+    "vitamins": [ [ "muscle_source", 20 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
     "id": "cheese_hard",
     "name": { "str_sp": "hard cheese" },
     "copy-from": "cheese_hard",

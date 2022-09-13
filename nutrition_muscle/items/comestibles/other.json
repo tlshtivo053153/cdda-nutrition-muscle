@@ -1,6 +1,13 @@
 [
   {
     "type": "COMESTIBLE",
+    "id": "slime_scrap",
+    "name": { "str": "slime glob" },
+    "copy-from": "slime_scrap",
+    "vitamins": [ [ "muscle_source", 100 ] ]
+  },
+  {
+    "type": "COMESTIBLE",
     "id": "tofu",
     "name": { "str_sp": "tofu" },
     "copy-from": "tofu",

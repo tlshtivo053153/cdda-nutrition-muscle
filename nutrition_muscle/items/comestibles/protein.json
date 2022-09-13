@@ -1,0 +1,44 @@
+[
+  {
+    "copy-from": "protein_drink",
+    "id": "protein_drink",
+    "type": "COMESTIBLE",
+    "name": { "str": "protein drink" },
+    "vitamins": [ [ "muscle_source", 25 ] ]
+  },
+  {
+    "copy-from": "protein_powder",
+    "id": "protein_powder",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "protein powder" },
+    "vitamins": [ [ "muscle_source", 25 ] ]
+  },
+  {
+    "copy-from": "protein_shake",
+    "id": "protein_shake",
+    "type": "COMESTIBLE",
+    "name": { "str": "protein shake" },
+    "vitamins": [ [ "muscle_source", 25 ] ]
+  },
+  {
+    "copy-from": "protein_shake_fortified",
+    "id": "protein_shake_fortified",
+    "type": "COMESTIBLE",
+    "name": { "str": "fortified protein shake" },
+    "vitamins": [ [ "muscle_source", 25 ] ]
+  },
+  {
+    "copy-from": "milk_fortified",
+    "id": "milk_fortified",
+    "type": "COMESTIBLE",
+    "name": { "str": "fortified milk" },
+    "vitamins": [ [ "muscle_source", 50 ] ]
+  },
+  {
+    "copy-from": "protein_smoothie",
+    "id": "protein_smoothie",
+    "type": "COMESTIBLE",
+    "name": { "str": "protein smoothie" },
+    "vitamins": [ [ "muscle_source", 25 ] ]
+  }
+]

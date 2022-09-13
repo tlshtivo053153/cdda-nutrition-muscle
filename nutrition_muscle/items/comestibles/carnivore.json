@@ -168,6 +168,20 @@
     "vitamins": [ [ "muscle_source", 10 ] ]
   },
   {
+    "id": "salted_fish",
+    "type": "COMESTIBLE",
+    "copy-from": "salted_fish",
+    "name": { "str_sp": "salted fish" },
+    "vitamins": [ [ "muscle_source", 66 ] ]
+  },
+  {
+    "id": "salted_mollusk",
+    "type": "COMESTIBLE",
+    "copy-from": "salted_mollusk",
+    "name": { "str_sp": "salted mollusk" },
+    "vitamins": [ [ "muscle_source", 66 ] ]
+  },
+  {
     "id": "meat_smoked",
     "copy-from": "meat_smoked",
     "type": "COMESTIBLE",

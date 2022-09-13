@@ -1,0 +1,611 @@
+[
+  {
+    "copy-from": "sausage_raw",
+    "id": "sausage_raw",
+    "type": "COMESTIBLE",
+    "name": { "str": "raw sausage" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "sausage",
+    "id": "sausage",
+    "type": "COMESTIBLE",
+    "name": { "str": "smoked sausage" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "sausage_cooked",
+    "id": "sausage_cooked",
+    "type": "COMESTIBLE",
+    "name": { "str": "cooked sausage" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "confit_meat",
+    "id": "confit_meat",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "meat confit" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "sweet_sausage",
+    "id": "sweet_sausage",
+    "type": "COMESTIBLE",
+    "name": { "str": "sweet sausage" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "blutwurst_sausage",
+    "id": "blutwurst_sausage",
+    "type": "COMESTIBLE",
+    "name": { "str": "blutwurst" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "bratwurst_sausage",
+    "id": "bratwurst_sausage",
+    "type": "COMESTIBLE",
+    "name": { "str": "bratwurst" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "royal_beef",
+    "id": "royal_beef",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "royal beef" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "bacon",
+    "id": "bacon",
+    "type": "COMESTIBLE",
+    "name": { "str": "bacon", "str_pl": "pieces of bacon" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "sausage_wasteland",
+    "id": "sausage_wasteland",
+    "type": "COMESTIBLE",
+    "name": { "str": "wasteland sausage" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "sausage_wasteland_raw",
+    "id": "sausage_wasteland_raw",
+    "type": "COMESTIBLE",
+    "name": { "str": "raw wasteland sausage" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "cracklins",
+    "id": "cracklins",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "cracklins" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "human_cracklins",
+    "id": "human_cracklins",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "cracklins" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "mutant_cracklins",
+    "id": "mutant_cracklins",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "cracklins" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "mutant_human_cracklins",
+    "id": "mutant_human_cracklins",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "cracklins" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "demihuman_cracklins",
+    "id": "demihuman_cracklins",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "cracklins" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "glazed_tenderloin",
+    "id": "glazed_tenderloin",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "glazed tenderloins" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "lobster_platter",
+    "id": "lobster_platter",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "lobster platter" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "currywurst",
+    "id": "currywurst",
+    "type": "COMESTIBLE",
+    "name": { "str": "currywurst" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "meat_aspic",
+    "id": "meat_aspic",
+    "type": "COMESTIBLE",
+    "name": { "str": "aspic" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "dry_fish",
+    "id": "dry_fish",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "dehydrated fish" },
+    "vitamins": [ [ "muscle_source", 66 ] ]
+  },
+  {
+    "copy-from": "rehydrated_fish",
+    "id": "rehydrated_fish",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "rehydrated fish" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "dry_lobster",
+    "id": "dry_lobster",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "dehydrated lobster" },
+    "vitamins": [ [ "muscle_source", 66 ] ]
+  },
+  {
+    "copy-from": "rehydrated_lobster",
+    "id": "rehydrated_lobster",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "rehydrated lobster" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "dry_mollusk",
+    "id": "dry_mollusk",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "dehydrated mollusk" },
+    "vitamins": [ [ "muscle_source", 66 ] ]
+  },
+  {
+    "copy-from": "rehydrated_mollusk",
+    "id": "rehydrated_mollusk",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "rehydrated mollusk" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "fish_pickled",
+    "id": "fish_pickled",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "pickled fish" },
+    "vitamins": [ [ "muscle_source", 66 ] ]
+  },
+  {
+    "copy-from": "fish_canned",
+    "id": "fish_canned",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "canned fish" },
+    "vitamins": [ [ "muscle_source", 66 ] ]
+  },
+  {
+    "copy-from": "lobster_canned",
+    "id": "lobster_canned",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "canned lobster" },
+    "vitamins": [ [ "muscle_source", 66 ] ]
+  },
+  {
+    "copy-from": "fish_fried",
+    "id": "fish_fried",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "batter fried fish" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "crab_cakes",
+    "id": "crab_cakes",
+    "type": "COMESTIBLE",
+    "name": { "str": "crab cake" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "lobster_cakes",
+    "id": "lobster_cakes",
+    "type": "COMESTIBLE",
+    "name": { "str": "lobster cake" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "stuffed_clams",
+    "id": "stuffed_clams",
+    "type": "COMESTIBLE",
+    "name": { "str": "stuffed clam" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "lunchmeat",
+    "id": "lunchmeat",
+    "type": "COMESTIBLE",
+    "name": { "str": "lunch meat" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "bologna",
+    "id": "bologna",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "bologna" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "lutefisk",
+    "id": "lutefisk",
+    "type": "COMESTIBLE",
+    "name": { "str": "lutefisk" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "can_spam",
+    "id": "can_spam",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "SPAM" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "debug_nutrition",
+    "id": "debug_nutrition",
+    "type": "COMESTIBLE",
+    "name": { "str": "holy SPAM of debugging", "str_pl": "holy SPAMs of debugging" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "can_sardine",
+    "id": "can_sardine",
+    "type": "COMESTIBLE",
+    "name": { "str": "canned sardine" },
+    "vitamins": [ [ "muscle_source", 66 ] ]
+  },
+  {
+    "copy-from": "sausagegravy",
+    "id": "sausagegravy",
+    "type": "COMESTIBLE",
+    "name": { "str": "sausage gravy", "str_pl": "sausage gravies" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "pemmican",
+    "id": "pemmican",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "pemmican" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "pemmican_meat",
+    "id": "pemmican_meat",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "pemmican (meat only)" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "macaroni_helper",
+    "id": "macaroni_helper",
+    "type": "COMESTIBLE",
+    "name": { "str": "hamburger helper" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "ravioli",
+    "id": "ravioli",
+    "type": "COMESTIBLE",
+    "name": { "str": "ravioli" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "chili",
+    "id": "chili",
+    "type": "COMESTIBLE",
+    "name": { "str": "chili con carne", "str_pl": "chilis con carne" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "pork_beans",
+    "id": "pork_beans",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "pork and beans" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "can_tuna",
+    "id": "can_tuna",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "canned tuna fish" },
+    "vitamins": [ [ "muscle_source", 66 ] ]
+  },
+  {
+    "copy-from": "can_salmon",
+    "id": "can_salmon",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "canned salmon" },
+    "vitamins": [ [ "muscle_source", 66 ] ]
+  },
+  {
+    "copy-from": "can_chicken",
+    "id": "can_chicken",
+    "type": "COMESTIBLE",
+    "name": { "str": "canned chicken" },
+    "vitamins": [ [ "muscle_source", 100 ] ]
+  },
+  {
+    "copy-from": "can_herring",
+    "id": "can_herring",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "pickled herring" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "can_clams",
+    "id": "can_clams",
+    "type": "COMESTIBLE",
+    "name": { "str": "canned clam" },
+    "vitamins": [ [ "muscle_source", 66 ] ]
+  },
+  {
+    "copy-from": "can_chowder",
+    "id": "can_chowder",
+    "type": "COMESTIBLE",
+    "name": { "str": "clam chowder" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "deluxe_beans",
+    "id": "deluxe_beans",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "baked beans" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "deluxe_rice",
+    "id": "deluxe_rice",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "meat fried rice" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "deluxe_beansnrice",
+    "id": "deluxe_beansnrice",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "deluxe beans and rice" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "pie_meat",
+    "id": "pie_meat",
+    "type": "COMESTIBLE",
+    "name": { "str": "meat pie" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "pizza_meat",
+    "id": "pizza_meat",
+    "type": "COMESTIBLE",
+    "name": { "str": "meat pizza" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "pizza_supreme",
+    "id": "pizza_supreme",
+    "type": "COMESTIBLE",
+    "name": { "str": "supreme pizza" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "deluxe_eggs",
+    "id": "deluxe_eggs",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "deluxe scrambled eggs" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "meat_canned",
+    "id": "meat_canned",
+    "type": "COMESTIBLE",
+    "name": { "str": "canned meat" },
+    "vitamins": [ [ "muscle_source", 100 ] ]
+  },
+  {
+    "copy-from": "meat_salted",
+    "id": "meat_salted",
+    "type": "COMESTIBLE",
+    "name": { "str": "salted meat slice" },
+    "vitamins": [ [ "muscle_source", 100 ] ]
+  },
+  {
+    "copy-from": "spaghetti_bolognese",
+    "id": "spaghetti_bolognese",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "spaghetti bolognese" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "lasagne",
+    "id": "lasagne",
+    "type": "COMESTIBLE",
+    "name": { "str": "lasagne" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "fried_spam",
+    "id": "fried_spam",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "fried SPAM" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "cheeseburger",
+    "id": "cheeseburger",
+    "type": "COMESTIBLE",
+    "name": { "str": "cheeseburger" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "cheeseburger_wheat_free",
+    "id": "cheeseburger_wheat_free",
+    "type": "COMESTIBLE",
+    "name": { "str": "wheat-free cheeseburger" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "deluxe_cheeseburger",
+    "id": "deluxe_cheeseburger",
+    "type": "COMESTIBLE",
+    "name": { "str": "deluxe cheeseburger" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "deluxe_cheeseburger_wheat_free",
+    "id": "deluxe_cheeseburger_wheat_free",
+    "type": "COMESTIBLE",
+    "name": { "str": "deluxe wheat-free cheeseburger" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "hamburger",
+    "id": "hamburger",
+    "type": "COMESTIBLE",
+    "name": { "str": "hamburger" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "hamburger_wheat_free",
+    "id": "hamburger_wheat_free",
+    "type": "COMESTIBLE",
+    "name": { "str": "wheat-free hamburger" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "sloppyjoe",
+    "id": "sloppyjoe",
+    "type": "COMESTIBLE",
+    "name": { "str": "sloppy joe" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "sloppyjoe_wheat_free",
+    "id": "sloppyjoe_wheat_free",
+    "type": "COMESTIBLE",
+    "name": { "str": "wheat-free sloppy joe" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "taco",
+    "id": "taco",
+    "type": "COMESTIBLE",
+    "name": { "str": "taco" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "meat_pickled",
+    "id": "meat_pickled",
+    "type": "COMESTIBLE",
+    "name": { "str": "pickled meat" },
+    "vitamins": [ [ "muscle_source", 100 ] ]
+  },
+  {
+    "copy-from": "dry_meat",
+    "id": "dry_meat",
+    "type": "COMESTIBLE",
+    "name": { "str": "dehydrated meat" },
+    "vitamins": [ [ "muscle_source", 100 ] ]
+  },
+  {
+    "copy-from": "rehydrated_meat",
+    "id": "rehydrated_meat",
+    "type": "COMESTIBLE",
+    "name": { "str": "rehydrated meat" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "haggis",
+    "id": "haggis",
+    "type": "COMESTIBLE",
+    "name": { "str": "haggis", "str_pl": "haggises" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "sushi_fishroll",
+    "id": "sushi_fishroll",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "fish makizushi" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "sushi_meatroll",
+    "id": "sushi_meatroll",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "meat temaki" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "sashimi",
+    "id": "sashimi",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "sashimi" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "dry_meat_tainted",
+    "id": "dry_meat_tainted",
+    "type": "COMESTIBLE",
+    "name": { "str": "dehydrated tainted meat" },
+    "vitamins": [ [ "muscle_source", 200 ] ]
+  },
+  {
+    "copy-from": "pelmeni",
+    "id": "pelmeni",
+    "type": "COMESTIBLE",
+    "name": { "str": "pelmeni" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "homemade_burrito",
+    "id": "homemade_burrito",
+    "type": "COMESTIBLE",
+    "name": { "str": "homemade burrito" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "meatball_raw",
+    "id": "meatball_raw",
+    "type": "COMESTIBLE",
+    "name": { "str": "raw meatball" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "meatball",
+    "id": "meatball",
+    "type": "COMESTIBLE",
+    "name": { "str": "meatball" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "paella_valenciana",
+    "id": "paella_valenciana",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "valencian paella" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  },
+  {
+    "copy-from": "escargot",
+    "id": "escargot",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "escargot" },
+    "vitamins": [ [ "muscle_source", 0 ] ]
+  }
+]
